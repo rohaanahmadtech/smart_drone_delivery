@@ -82,14 +82,18 @@ Builds efficient delivery network by:
 ---
 
 ## 📂 Project Structure
+
+```
 Smart-Drone-Delivery-System/
 │
-├── main.py # Main execution file
-├── drone_system.py # Core algorithm implementations
-├── visualizer.py # Visualization components
-├── requirements.txt # Dependencies
-├── drone_delivery_map.html # Interactive map output
-└── README.md # Documentation
+├── main.py                     # Main execution file
+├── drone_system.py             # Core algorithm implementations
+├── visualizer.py               # Visualization components
+├── requirements.txt            # Project dependencies
+├── drone_delivery_map.html     # Interactive map output
+└── README.md                   # Project documentation
+```
+
 
 ---
 
@@ -121,17 +125,16 @@ python main.py
 
 ## 📸 System Outputs
 
-**Shortest_Path_Visualization **
+## Shortest_Path_Visualization 
 <img width="1280" height="612" alt="Shortest_Path_Visualization" src="https://github.com/user-attachments/assets/2336e4fc-4b28-42a9-a80c-06df0366ebcd" />
 
-
-**MST_Network_Optimization **
+## MST_Network_Optimization 
 <img width="1280" height="612" alt="MST_Network_Optimization" src="https://github.com/user-attachments/assets/3d4320b8-1503-4302-ae73-19bd89bcc61f" />
 
-**Route_Cost_Comparison **
+## Route_Cost_Comparison 
 <img width="1280" height="612" alt="Route_Cost_Comparison" src="https://github.com/user-attachments/assets/aa651f74-77f4-4b12-aefe-12eb6c52485a" />
 
-**Interactive HTML Map**
+## Interactive HTML Map
 <img width="883" height="412" alt="image" src="https://github.com/user-attachments/assets/cf02f779-5765-4a36-aa0b-972ed520898e" />
 
 ---
